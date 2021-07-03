@@ -1,0 +1,22 @@
+{
+  "name": "@ungap/random-uuid",
+  "version": "0.0.0",
+  "description": "A crypto.randomUUID polyfill",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "crypto",
+    "randomUUID",
+    "polyfill"
+  ],
+  "author": "Stack Overflow",
+  "license": "CC BY-SA 4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungap/random-uuid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ungap/random-uuid/issues"
+  },
+  "homepage": "https://github.com/ungap/random-uuid#readme"
+}
